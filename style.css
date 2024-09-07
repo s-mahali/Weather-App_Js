@@ -162,7 +162,7 @@ padding: 20px;
     padding:10px;
     align-items: center;
     border-radius: 12px;
-    transition: 0.3s background;
+    transition: 0.3s ;
 }
 .forecast-item:hover {
     background: rgb(255,255,255, 0.15);
@@ -189,6 +189,7 @@ padding: 20px;
     width: fit-content;
 }
 
+/*END SECTION: MESSAGE */
 
 
 
@@ -207,5 +208,4 @@ padding: 20px;
 
 
 
-/*END SECTION WEATHER INFO*/
 
